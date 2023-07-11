@@ -1,12 +1,7 @@
 ### Usuaria
 
 Catalina Tomas Jaume Miquel
-
-Estudiante de Adalab 
-
-Bootcamp: Data Analytics 
-
-Promoción E (Evelyn)
+Estudiante en Adalab, Bootcamp: Data Analytics, Promoción E (Evelyn)
 
 ### Descripción del proyecto
 
