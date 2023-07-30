@@ -12,14 +12,11 @@ Estos ejercicios, además de reflejar la progresión de aprendizaje, quedarán d
 
 ### Librerías usadas
 
-    os
-    re
-    pandas
+   
 
 ### Estructura 
 
-    <DA-promoE-Mod1-Evaluaci-n-sprint1-CatalinaJaume>
-        <data>
+    <DA-promoE-Mod1-Evaluaci-n-sprint1-CatalinaJaume>        
         <python>
         <sql>
 
