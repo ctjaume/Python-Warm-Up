@@ -1,16 +1,17 @@
-### Usuaria
+### User/s
 
 Catalina Tomas Jaume Miquel
-Estudiante en Adalab, Bootcamp: Data Analytics, Promoción E (Evelyn)
 
-### Descripción del proyecto
+### Project description
+.
+Exercices provided by Adalab during their Bootcamp: Data Analytics - Evelyn Prom (June-October 2023)
 
-En este repositorio se encuentran los ejercicios realizados en las evaluaciones del Bootcamp: Data Analytics, Promocion E (Evelyn), que se realizan para poder comprobar que se han asumido los objetivos de aprendizaje del curso.
+This exercices were provided in order to allow students to improve their Python and SQL skills.
 
-Estos ejercicios, además de reflejar la progresión de aprendizaje, quedarán disponibles para consultas futuras.
+Yo can find all the exercices solved.
 
 
-### Librerías usadas
+### Libraries
 
    
 
