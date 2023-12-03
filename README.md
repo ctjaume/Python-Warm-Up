@@ -1,11 +1,12 @@
 
-# PYTHON-SQL EXERCICES (SPANISH)
+# PYTHON-WARM-UP-BASICS/CLASS CREATION
 
 ## Description
 
-Some basic Python exercices to warm up. 
+Python_1: Some basic Python exercices to warm up. 
+Python_2: Creation of a Class
 
-Feel free to check them to improve your basic Python skills
+Feel free to check this in order to improve your basic Python skills
 
 
 ## Installation
@@ -14,20 +15,13 @@ Python version: 3.9.7
 
 Anaconda3
 
-MySQL Workbench version: 8
 
-
-## Usage
-
-SQL queries must be run in MySQL Workbench. 
-
-Check repository "University database" to learn how to run queries directly from a notebook using Python.
 
 ## Credits
 
 Owner: Catalina Tomas Jaume Miquel
 
-Exercices provided by [Adalab](https://adalab.es/) during their Bootcamp: Data Analytics - Evelyn Prom (June-October 2023)
+Exercices provided by [Adalab](https://adalab.es/) 
 
 
 ## License
