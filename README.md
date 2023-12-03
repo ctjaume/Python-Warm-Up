@@ -3,9 +3,9 @@
 
 ## Description
 
-This exercices show that proper Python and SQL skills are acquired and they were meant to be solved in the most efficient way.
+Some basic Python exercices to warm up. 
 
-Feel free to check them to improve your skills as well
+Feel free to check them to improve your basic Python skills
 
 
 ## Installation
