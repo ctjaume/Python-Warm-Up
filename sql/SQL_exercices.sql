@@ -249,7 +249,7 @@ VALUES (280818245335648,140409122658096,140409122677552,72,41,31,0.569,48.3,113.
  
  SELECT team_id AS CodigoEquipo, MAX(w) AS MaximoVictoriasAnual, MIN(w) AS MinimoVictoriasAnual
  FROM stats
- WHERE team_id = 140409122658352 ;  
+ GROUP BY team_id;  
  
  
  /*Obtén los primeros 10 resultados de la tabla de teams*/
@@ -273,12 +273,12 @@ FROM teams;
 
 /*Calcula la media de todos los puntos conseguidos de la tabla stats*/
 
-SELECT AVG(pts)
+SELECT ROUND(AVG(pts), 2)
 FROM stats;
 
 /*Selecciona el máximo de victorias, máximo de puntos y la diferencia 
 entre el máximo de puntos con la media de puntos como diferencia_media 
 de la tabla stats*/
  
- SELECT MAX(w) AS MaximoVictorias, MAX(pts) AS PuntuacionMaxima, 109.38 - MAX(pts) AS DiferenciaMedia
+ SELECT MAX(w) AS MaximoVictorias, MAX(pts) AS PuntuacionMaxima, MAX(pts) - AVG(pts) AS DiferenciaMedia
  FROM stats;
