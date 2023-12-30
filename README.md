@@ -3,7 +3,8 @@
 
 ## Description
 
-Python_basics: Some basic Python exercices to warm up. 
+Python_basics: Some basic Python exercices to warm up.
+
 Python_class: Creation of a Class
 
 Feel free to check this in order to improve your basic Python skills
